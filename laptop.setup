@@ -1,0 +1,19 @@
+
+Apps
+-----
+Homebrew: ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+Oh-my-zsh shell: wget --no-check-certificate https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+Janus scripts:  curl -Lo- https://bit.ly/janus-bootstrap | bash
+MacVIM:  brew install macvim
+tmux: brew install tmux
+tmuxinator: gem install tmuxinator
+sublime
+
+
+Configs
+--------
+zsh global:  ~/.zshrc
+tmux: ~/.tmux.conf
+vim: ~/.vim/janus/vim/vimrc
+
+
